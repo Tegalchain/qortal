@@ -5,6 +5,10 @@
 	<artifactId>qortal</artifactId>
 	<version>1.4.0</version>
 	<packaging>jar</packaging>
+	<repository>
+   		<id>maven-central</id>
+    		<url>http://repo1.maven.org/maven2</url>
+	</repository>
 	<properties>
 		<skipTests>true</skipTests>
 		<altcoinj.version>bf9fb80</altcoinj.version>
